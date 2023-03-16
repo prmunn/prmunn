@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://github.com/prmunn/prmunn/blob/main/GIH_logo_large_darkmode.png"/>
+</div>
 ### Hi there 👋
 
 <!--
