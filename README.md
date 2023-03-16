@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/prmunn/prmunn/blob/main/GIH_logo_large_darkmode.png"/>
 </div>
-### Hi there 👋
 
 <!--
 **prmunn/prmunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
