@@ -2,6 +2,11 @@
   <img src="https://github.com/prmunn/prmunn/blob/main/GIH_logo_large_darkmode.png"/>
 </div>
 
+<p>
+The Genomics Innovation Hub at Cornell was established by the Provost’s Genome Biology Task Force to enable the development and application of cutting-edge genomics technologies. The GI Hub operates under a collaborative model with centralized resources and expertise. Researchers who collaborate with the GI Hub cover only the incremental cost of their research experiments.
+</p>
+
+
 <!--
 **prmunn/prmunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
